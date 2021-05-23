@@ -6,4 +6,3 @@ Simple Login System Created with PHP & MySQL
 - Signup
 - Login
 - Logout
-- Remember me
