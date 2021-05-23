@@ -54,7 +54,7 @@
                     </div>
 
                     <div class="form-group">
-                        <input class="form-control" type="text" name="email" placeholder="Email" class="form-control" autocomplete="on" required>
+                        <input class="form-control" type="email" name="email" placeholder="Email" class="form-control" autocomplete="on" required>
                     </div>
 
                     <div class="form-group">
