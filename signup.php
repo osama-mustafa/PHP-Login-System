@@ -50,11 +50,11 @@
                 <form action="includes/signup_process.php" method="POST" class="form login">
 
                     <div class="form-group">
-                        <input type="text" name="username" placeholder="Username" class="form-control" autocomplete="off">
+                        <input type="text" name="username" placeholder="Username" class="form-control" autocomplete="on">
                     </div>
 
                     <div class="form-group">
-                        <input class="form-control" type="text" name="email" placeholder="Email" class="form-control" autocomplete="off">
+                        <input class="form-control" type="text" name="email" placeholder="Email" class="form-control" autocomplete="on">
                     </div>
 
                     <div class="form-group">
