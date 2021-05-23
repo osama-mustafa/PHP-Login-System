@@ -30,10 +30,10 @@
                             echo "<div class='alert alert-danger'>Please Enter a Valid Email Address!</div>";
 
                         } elseif ($_GET["error"] == "validUsername") {
-                            echo "<div class='alert alert-danger'>Please Enter a Suitable Username!<br> (Only Letters & Numbers is Allowed)</div>";
+                            echo "<div class='alert alert-danger'>Please Enter a Suitable Username!<br> Only Letters & Numbers Are Allowed</div>";
 
                         } else if ($_GET["error"] == "passwordLength") {
-                            echo "<div class='alert alert-danger'>Password Must Be At Least 6 Charecters!</div>";
+                            echo "<div class='alert alert-danger'>Password Must Be At Least 6 Characters!</div>";
 
                         } elseif ($_GET["error"] == "userExists") {
                             echo "<div class='alert alert-danger'>Email Already Taken!</div>";
