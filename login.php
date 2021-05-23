@@ -39,7 +39,7 @@
                 ?>
                     <form action="includes/login_process.php" method="POST">
                         <div class="form-group">
-                            <input type="email" name="email" placeholder="Email" class="form-control" autocomplete="off">
+                            <input type="email" name="email" placeholder="Email" class="form-control" autocomplete="on">
                         </div>
 
                         <div class="form-group">
